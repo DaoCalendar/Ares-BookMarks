@@ -1,5 +1,9 @@
 ##  README
 
+###  日程管理
+
+2020-10-25 [ManicTime](https://xbeta.info/manictime.htm）
+
 ###  书签栏
 
 2018-10-09 18:43 [腾讯企业邮箱](https://exmail.qq.com/login)
